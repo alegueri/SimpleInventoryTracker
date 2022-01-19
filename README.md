@@ -21,6 +21,6 @@ If you wish to run back-end and front-end seperately.
 1. CD into 'server' and run "npm run start" 
 2. open a new terminal simultaneously, and CD into 'client'. Run "npm start". 
 
-This will execture the same as above. 
+This will execute the same as above. 
 
 Hope you enjoy! :) 
